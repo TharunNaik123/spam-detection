@@ -9,16 +9,6 @@ It is developed as part of my Machine Learning Internship – Week 2 Task.
 - Multinomial Naive Bayes classifier
 - Saved ML pipeline for predictions
 
-## Project Structure
-spam-detection/
-│── data/
-│     └── spam.csv
-│── model/
-│     └── spam_detector.pkl
-│── src/
-│     ├── train.py
-│     └── predict.py
-
 ## Install Dependencies
 pip install pandas scikit-learn joblib
 
